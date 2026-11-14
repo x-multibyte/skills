@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "27fe5861-f3e3-492c-854d-36d1c7223175",
+  "path": "petdex",
+  "path_key": "petdex",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

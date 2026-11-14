@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "610748a6-10d2-4476-ab72-d0cb288296f1",
+  "path": "agent-platform-alert-configuration",
+  "path_key": "agent-platform-alert-configuration",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

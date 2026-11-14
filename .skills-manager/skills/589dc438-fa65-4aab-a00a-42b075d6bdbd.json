@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "589dc438-fa65-4aab-a00a-42b075d6bdbd",
+  "path": "kanban-worker",
+  "path_key": "kanban-worker",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

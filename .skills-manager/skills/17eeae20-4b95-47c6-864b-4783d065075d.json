@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "17eeae20-4b95-47c6-864b-4783d065075d",
+  "path": "grok-image-to-video",
+  "path_key": "grok-image-to-video",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

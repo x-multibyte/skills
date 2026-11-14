@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c599b1ec-21a2-4dbc-a9ce-3b9aaeecbdad",
+  "path": "shell-path-diagnostics",
+  "path_key": "shell-path-diagnostics",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

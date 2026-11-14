@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "188cb447-c2cd-4953-8428-e84f5251b7c2",
+  "path": "meeting-action-items",
+  "path_key": "meeting-action-items",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

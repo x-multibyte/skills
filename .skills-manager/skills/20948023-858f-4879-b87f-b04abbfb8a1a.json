@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "20948023-858f-4879-b87f-b04abbfb8a1a",
+  "path": "9router-embeddings",
+  "path_key": "9router-embeddings",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

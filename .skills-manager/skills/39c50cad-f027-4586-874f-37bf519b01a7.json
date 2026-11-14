@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "39c50cad-f027-4586-874f-37bf519b01a7",
+  "path": "dpop-adoption",
+  "path_key": "dpop-adoption",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

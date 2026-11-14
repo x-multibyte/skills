@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e011333e-173e-489e-bc7d-653dabc234b3",
+  "path": "deeptutor",
+  "path_key": "deeptutor",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

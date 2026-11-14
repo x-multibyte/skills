@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ad04c5cc-72b8-4932-b9a1-da6da3658a1e",
+  "path": "godmode",
+  "path_key": "godmode",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

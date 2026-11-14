@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5d5f9a3b-6767-4be8-bde2-c4c4ce169bcd",
+  "path": "technical-setup-transparency",
+  "path_key": "technical-setup-transparency",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0642e52d-3bd4-4ac1-ac83-dd717897705f",
+  "path": "php-dev-env",
+  "path_key": "php-dev-env",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

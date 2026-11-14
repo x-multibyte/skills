@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9eb93940-b70d-4aab-9d72-376a2de23a36",
+  "path": "weekly-review-planning",
+  "path_key": "weekly-review-planning",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9e1b0d8e-1c98-4715-9a00-297a8bf1f0a9",
+  "path": "find-docs-2",
+  "path_key": "find-docs-2",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "fd7bec0a-b899-4fcf-8c65-910b9475ca95",
+  "path": "skills-spec-compliance",
+  "path_key": "skills-spec-compliance",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

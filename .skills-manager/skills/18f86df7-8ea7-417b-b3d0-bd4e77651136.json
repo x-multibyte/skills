@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "18f86df7-8ea7-417b-b3d0-bd4e77651136",
+  "path": "osint-investigation",
+  "path_key": "osint-investigation",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

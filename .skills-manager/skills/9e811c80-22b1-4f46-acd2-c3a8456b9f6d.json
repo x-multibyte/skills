@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9e811c80-22b1-4f46-acd2-c3a8456b9f6d",
+  "path": "9router-chat",
+  "path_key": "9router-chat",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

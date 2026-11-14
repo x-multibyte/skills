@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ed1b952c-7b01-42af-8f8f-849c8e1c6216",
+  "path": "9router-web-fetch",
+  "path_key": "9router-web-fetch",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

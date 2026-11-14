@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "61533648-717f-4b1f-9476-9dfbaf919976",
+  "path": "developing-genkit-python",
+  "path_key": "developing-genkit-python",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

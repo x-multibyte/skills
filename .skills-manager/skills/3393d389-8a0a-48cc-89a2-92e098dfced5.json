@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3393d389-8a0a-48cc-89a2-92e098dfced5",
+  "path": "9router-video",
+  "path_key": "9router-video",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

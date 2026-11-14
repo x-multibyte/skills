@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "251e0a5c-4366-4238-9e4e-d55bfb384946",
+  "path": "application-integration-basics",
+  "path_key": "application-integration-basics",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

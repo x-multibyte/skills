@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5008f0f7-bac3-4677-bff2-01714b162bcd",
+  "path": "migrate-to-rust",
+  "path_key": "migrate-to-rust",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

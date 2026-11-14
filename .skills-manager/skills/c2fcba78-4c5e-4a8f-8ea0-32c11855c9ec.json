@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c2fcba78-4c5e-4a8f-8ea0-32c11855c9ec",
+  "path": "agent-memory-providers",
+  "path_key": "agent-memory-providers",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

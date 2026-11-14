@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c0311cb1-a7d5-47a9-acc9-4f17e3f30aa2",
+  "path": "theme-factory",
+  "path_key": "theme-factory",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

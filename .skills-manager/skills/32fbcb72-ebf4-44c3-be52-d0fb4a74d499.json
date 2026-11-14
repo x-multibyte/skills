@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "32fbcb72-ebf4-44c3-be52-d0fb4a74d499",
+  "path": "openviking-memory",
+  "path_key": "openviking-memory",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

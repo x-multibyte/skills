@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7c38348d-0c2e-4ec6-a409-a44a54a7ac62",
+  "path": "deprecation-and-migration",
+  "path_key": "deprecation-and-migration",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

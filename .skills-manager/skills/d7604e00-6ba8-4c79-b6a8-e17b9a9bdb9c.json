@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d7604e00-6ba8-4c79-b6a8-e17b9a9bdb9c",
+  "path": "gitnexus-lfg",
+  "path_key": "gitnexus-lfg",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

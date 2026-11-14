@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "05bebb5c-926d-4a98-a5e6-6cbb41bda631",
+  "path": "agentskills-creator",
+  "path_key": "agentskills-creator",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

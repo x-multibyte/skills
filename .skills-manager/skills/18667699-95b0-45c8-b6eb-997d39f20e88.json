@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "18667699-95b0-45c8-b6eb-997d39f20e88",
+  "path": "macos-kernel-panic-analysis",
+  "path_key": "macos-kernel-panic-analysis",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

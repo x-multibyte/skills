@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "701b3584-6520-4400-ae4a-fa1e3e3744d2",
+  "path": "developing-genkit-go",
+  "path_key": "developing-genkit-go",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

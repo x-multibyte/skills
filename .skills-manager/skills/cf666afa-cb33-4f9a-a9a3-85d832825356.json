@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "cf666afa-cb33-4f9a-a9a3-85d832825356",
+  "path": "google-agents-cli-publish",
+  "path_key": "google-agents-cli-publish",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

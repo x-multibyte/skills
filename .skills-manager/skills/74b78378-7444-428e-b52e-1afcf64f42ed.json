@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "74b78378-7444-428e-b52e-1afcf64f42ed",
+  "path": "agent-platform-troubleshooting",
+  "path_key": "agent-platform-troubleshooting",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

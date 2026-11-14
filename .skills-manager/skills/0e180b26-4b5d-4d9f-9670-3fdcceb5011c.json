@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0e180b26-4b5d-4d9f-9670-3fdcceb5011c",
+  "path": "hermes-tool-offboarding",
+  "path_key": "hermes-tool-offboarding",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

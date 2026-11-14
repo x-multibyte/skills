@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "40c784c9-7595-4cfa-87cd-1b661855059c",
+  "path": "grounded-citations",
+  "path_key": "grounded-citations",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

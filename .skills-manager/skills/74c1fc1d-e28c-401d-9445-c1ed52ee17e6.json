@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "74c1fc1d-e28c-401d-9445-c1ed52ee17e6",
+  "path": "gcloud",
+  "path_key": "gcloud",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

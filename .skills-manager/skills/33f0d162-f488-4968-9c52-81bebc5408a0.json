@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "33f0d162-f488-4968-9c52-81bebc5408a0",
+  "path": "wiki-publishing",
+  "path_key": "wiki-publishing",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

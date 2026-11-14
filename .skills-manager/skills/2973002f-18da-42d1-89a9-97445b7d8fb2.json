@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2973002f-18da-42d1-89a9-97445b7d8fb2",
+  "path": "product-research-blueprint",
+  "path_key": "product-research-blueprint",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "965fb1c4-94fc-457a-b85e-d962af03c040",
+  "path": "codedvisuals",
+  "path_key": "codedvisuals",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

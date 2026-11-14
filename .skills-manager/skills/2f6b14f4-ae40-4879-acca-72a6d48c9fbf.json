@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2f6b14f4-ae40-4879-acca-72a6d48c9fbf",
+  "path": "searxng-search",
+  "path_key": "searxng-search",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

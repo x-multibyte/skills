@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b58c5213-a82c-4c00-b814-6690d207790f",
+  "path": "codebase-doc-sync",
+  "path_key": "codebase-doc-sync",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

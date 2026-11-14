@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5039ea66-0c95-4910-8913-db683aa084fc",
+  "path": "google-agents-cli-workflow",
+  "path_key": "google-agents-cli-workflow",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

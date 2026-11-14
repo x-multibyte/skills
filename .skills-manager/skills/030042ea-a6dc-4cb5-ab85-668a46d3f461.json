@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "030042ea-a6dc-4cb5-ab85-668a46d3f461",
+  "path": "codebase-memory",
+  "path_key": "codebase-memory",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

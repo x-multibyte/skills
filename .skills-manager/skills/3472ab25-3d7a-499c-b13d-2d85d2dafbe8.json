@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3472ab25-3d7a-499c-b13d-2d85d2dafbe8",
+  "path": "git-workflow-and-versioning",
+  "path_key": "git-workflow-and-versioning",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

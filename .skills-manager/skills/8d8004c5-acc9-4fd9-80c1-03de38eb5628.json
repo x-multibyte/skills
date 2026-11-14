@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "8d8004c5-acc9-4fd9-80c1-03de38eb5628",
+  "path": "one-three-one-rule",
+  "path_key": "one-three-one-rule",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

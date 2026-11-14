@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f436a5e5-87ad-47f6-8ef1-e28faa3ecba1",
+  "path": "skill-library-maintenance",
+  "path_key": "skill-library-maintenance",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

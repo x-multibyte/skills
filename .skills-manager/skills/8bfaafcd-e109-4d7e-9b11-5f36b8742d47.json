@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "8bfaafcd-e109-4d7e-9b11-5f36b8742d47",
+  "path": "api-gateway-mcp-server",
+  "path_key": "api-gateway-mcp-server",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

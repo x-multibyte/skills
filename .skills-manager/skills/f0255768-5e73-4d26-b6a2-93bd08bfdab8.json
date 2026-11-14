@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f0255768-5e73-4d26-b6a2-93bd08bfdab8",
+  "path": "markdown-viewer",
+  "path_key": "markdown-viewer",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

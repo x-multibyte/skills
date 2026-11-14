@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "cfce98ff-2f44-4d48-a69e-18d24de2653e",
+  "path": "findmy",
+  "path_key": "findmy",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

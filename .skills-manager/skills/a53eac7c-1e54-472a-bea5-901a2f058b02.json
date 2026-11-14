@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a53eac7c-1e54-472a-bea5-901a2f058b02",
+  "path": "alipay-payment-integration",
+  "path_key": "alipay-payment-integration",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

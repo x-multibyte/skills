@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a14db560-46e5-43e6-a190-9b0320333612",
+  "path": "task-discovery",
+  "path_key": "task-discovery",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

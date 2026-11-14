@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3bf6b1a4-46d1-4649-872c-c79638ad09fa",
+  "path": "vmware-vsphere-operations",
+  "path_key": "vmware-vsphere-operations",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

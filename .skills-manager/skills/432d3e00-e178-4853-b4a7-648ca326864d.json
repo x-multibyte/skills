@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "432d3e00-e178-4853-b4a7-648ca326864d",
+  "path": "workload-manager-basics",
+  "path_key": "workload-manager-basics",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3520364b-d9f5-4081-9bba-005a8f5f85d7",
+  "path": "minimax-image-to-video",
+  "path_key": "minimax-image-to-video",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

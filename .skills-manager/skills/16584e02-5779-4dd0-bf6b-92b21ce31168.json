@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "16584e02-5779-4dd0-bf6b-92b21ce31168",
+  "path": "google-agents-cli-observability",
+  "path_key": "google-agents-cli-observability",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

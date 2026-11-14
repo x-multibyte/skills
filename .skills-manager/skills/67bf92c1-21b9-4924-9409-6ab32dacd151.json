@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "67bf92c1-21b9-4924-9409-6ab32dacd151",
+  "path": "web-product-analysis",
+  "path_key": "web-product-analysis",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

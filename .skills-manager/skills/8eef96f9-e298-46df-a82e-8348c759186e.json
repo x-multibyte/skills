@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "8eef96f9-e298-46df-a82e-8348c759186e",
+  "path": "apikey-image-gen",
+  "path_key": "apikey-image-gen",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

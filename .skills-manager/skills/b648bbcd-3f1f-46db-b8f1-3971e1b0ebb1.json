@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b648bbcd-3f1f-46db-b8f1-3971e1b0ebb1",
+  "path": "gitnexus-pdg-query",
+  "path_key": "gitnexus-pdg-query",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

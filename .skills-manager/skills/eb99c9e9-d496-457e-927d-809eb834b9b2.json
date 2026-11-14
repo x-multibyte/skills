@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "eb99c9e9-d496-457e-927d-809eb834b9b2",
+  "path": "ansible-vault-credentials",
+  "path_key": "ansible-vault-credentials",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

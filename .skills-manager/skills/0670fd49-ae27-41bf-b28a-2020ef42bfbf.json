@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0670fd49-ae27-41bf-b28a-2020ef42bfbf",
+  "path": "apigee-agent-gateway-governance",
+  "path_key": "apigee-agent-gateway-governance",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

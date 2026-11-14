@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "fac70d83-88c2-409f-963b-7165e72ec7a4",
+  "path": "source-driven-development",
+  "path_key": "source-driven-development",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

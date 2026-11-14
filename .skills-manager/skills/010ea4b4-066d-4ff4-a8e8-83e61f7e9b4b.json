@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "010ea4b4-066d-4ff4-a8e8-83e61f7e9b4b",
+  "path": "lightrag-deployment",
+  "path_key": "lightrag-deployment",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

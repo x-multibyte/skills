@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1d53819f-bae8-4aab-9e02-b24a97d18e8e",
+  "path": "9router-stt",
+  "path_key": "9router-stt",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

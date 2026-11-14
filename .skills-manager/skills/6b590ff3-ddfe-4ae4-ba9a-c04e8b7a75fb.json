@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6b590ff3-ddfe-4ae4-ba9a-c04e8b7a75fb",
+  "path": "application-integration-troubleshooting",
+  "path_key": "application-integration-troubleshooting",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

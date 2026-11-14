@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d10f6844-6ae6-499f-8077-2059dc75acb9",
+  "path": "agent-platform-deploy",
+  "path_key": "agent-platform-deploy",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

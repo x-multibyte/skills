@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a0fd5c8e-6af6-40ab-a5e5-c3fd4d42a533",
+  "path": "retrieving-developer-knowledge",
+  "path_key": "retrieving-developer-knowledge",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

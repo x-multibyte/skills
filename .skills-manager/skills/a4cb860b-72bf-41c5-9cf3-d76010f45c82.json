@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a4cb860b-72bf-41c5-9cf3-d76010f45c82",
+  "path": "9router",
+  "path_key": "9router",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

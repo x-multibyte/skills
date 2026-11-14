@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "16bfb752-137d-45b0-9844-6951e620f54b",
+  "path": "laravel-best-practices",
+  "path_key": "laravel-best-practices",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

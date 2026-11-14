@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0233c510-f584-4b8e-b004-789db9ebfd37",
+  "path": "gitnexus-plan",
+  "path_key": "gitnexus-plan",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

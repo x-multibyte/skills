@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "cb168eea-312e-46c2-ab4b-da2475e7bf01",
+  "path": "blatui-development",
+  "path_key": "blatui-development",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c38df3ca-00bc-485d-82af-b7ee099aae7c",
+  "path": "agent-platform-tuning-management",
+  "path_key": "agent-platform-tuning-management",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6ab41d5e-8921-48d4-8dc3-4e3b27da550f",
+  "path": "agent-platform-prompt-management",
+  "path_key": "agent-platform-prompt-management",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

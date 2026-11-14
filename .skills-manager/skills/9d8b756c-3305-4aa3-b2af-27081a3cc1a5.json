@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9d8b756c-3305-4aa3-b2af-27081a3cc1a5",
+  "path": "software-uninstall",
+  "path_key": "software-uninstall",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

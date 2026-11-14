@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c5007f2c-78bb-409f-849c-9c68adefd27d",
+  "path": "gh-cli",
+  "path_key": "gh-cli",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

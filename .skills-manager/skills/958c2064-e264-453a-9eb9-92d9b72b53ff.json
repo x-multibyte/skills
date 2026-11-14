@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "958c2064-e264-453a-9eb9-92d9b72b53ff",
+  "path": "9router-image",
+  "path_key": "9router-image",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "42045a8a-38e0-4797-9209-a3c1df7449c1",
+  "path": "agent-platform-inference",
+  "path_key": "agent-platform-inference",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

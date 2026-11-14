@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b292fd54-3ef9-42d4-84b9-3163f821250f",
+  "path": "gitnexus-taint-analysis",
+  "path_key": "gitnexus-taint-analysis",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

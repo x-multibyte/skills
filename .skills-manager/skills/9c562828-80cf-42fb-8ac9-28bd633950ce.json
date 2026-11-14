@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9c562828-80cf-42fb-8ac9-28bd633950ce",
+  "path": "docker-management",
+  "path_key": "docker-management",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

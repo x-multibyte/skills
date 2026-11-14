@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "89dd5ae8-8c30-4fbc-8e19-551bf0f2b50a",
+  "path": "code-wiki",
+  "path_key": "code-wiki",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

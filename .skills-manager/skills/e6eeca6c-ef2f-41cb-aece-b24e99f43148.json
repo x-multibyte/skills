@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e6eeca6c-ef2f-41cb-aece-b24e99f43148",
+  "path": "agent-platform-eval-flywheel",
+  "path_key": "agent-platform-eval-flywheel",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

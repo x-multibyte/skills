@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "95a2ec4a-2599-4435-a635-6270d96e29f4",
+  "path": "agent-platform-model-registry",
+  "path_key": "agent-platform-model-registry",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

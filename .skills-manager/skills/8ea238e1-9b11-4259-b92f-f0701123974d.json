@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "8ea238e1-9b11-4259-b92f-f0701123974d",
+  "path": "debugging-and-error-recovery",
+  "path_key": "debugging-and-error-recovery",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

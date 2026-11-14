@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7c60c327-2701-4091-a20b-e528b560998f",
+  "path": "agent-long-term-memory",
+  "path_key": "agent-long-term-memory",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

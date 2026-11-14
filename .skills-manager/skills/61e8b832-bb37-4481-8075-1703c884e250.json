@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "61e8b832-bb37-4481-8075-1703c884e250",
+  "path": "terminal-browser",
+  "path_key": "terminal-browser",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

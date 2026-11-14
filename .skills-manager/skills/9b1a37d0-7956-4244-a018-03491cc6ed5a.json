@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9b1a37d0-7956-4244-a018-03491cc6ed5a",
+  "path": "9router-tts",
+  "path_key": "9router-tts",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

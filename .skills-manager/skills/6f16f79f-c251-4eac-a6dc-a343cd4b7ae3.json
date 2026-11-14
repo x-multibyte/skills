@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6f16f79f-c251-4eac-a6dc-a343cd4b7ae3",
+  "path": "orchestra-testbench-skill",
+  "path_key": "orchestra-testbench-skill",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

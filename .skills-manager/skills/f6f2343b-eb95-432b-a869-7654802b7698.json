@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f6f2343b-eb95-432b-a869-7654802b7698",
+  "path": "nlm-skill",
+  "path_key": "nlm-skill",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

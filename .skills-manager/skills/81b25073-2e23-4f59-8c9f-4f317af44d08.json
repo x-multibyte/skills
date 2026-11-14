@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "81b25073-2e23-4f59-8c9f-4f317af44d08",
+  "path": "agents-md-authoring",
+  "path_key": "agents-md-authoring",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1984620b-9e0c-424f-8de0-9d1eb4f67b55",
+  "path": "fastmcp",
+  "path_key": "fastmcp",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

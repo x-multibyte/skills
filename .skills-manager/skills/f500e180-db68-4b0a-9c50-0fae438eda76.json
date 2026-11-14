@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f500e180-db68-4b0a-9c50-0fae438eda76",
+  "path": "sherlock",
+  "path_key": "sherlock",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

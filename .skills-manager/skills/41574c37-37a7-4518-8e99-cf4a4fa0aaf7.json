@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "41574c37-37a7-4518-8e99-cf4a4fa0aaf7",
+  "path": "omniroute-docker",
+  "path_key": "omniroute-docker",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5d8d6860-786c-4c56-950a-43756f29aca2",
+  "path": "arxiv",
+  "path_key": "arxiv",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

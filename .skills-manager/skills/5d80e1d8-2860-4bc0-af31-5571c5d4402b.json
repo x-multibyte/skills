@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5d80e1d8-2860-4bc0-af31-5571c5d4402b",
+  "path": "wiki-migration-patterns",
+  "path_key": "wiki-migration-patterns",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3615a15d-be49-411a-a6e6-dd71664606d8",
+  "path": "antigravity-cli",
+  "path_key": "antigravity-cli",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

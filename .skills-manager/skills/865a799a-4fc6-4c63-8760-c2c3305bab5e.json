@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "865a799a-4fc6-4c63-8760-c2c3305bab5e",
+  "path": "local-ocr-npu",
+  "path_key": "local-ocr-npu",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c8ea9b86-5953-4734-adf9-55a5a866768f",
+  "path": "google-agents-cli-deploy",
+  "path_key": "google-agents-cli-deploy",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

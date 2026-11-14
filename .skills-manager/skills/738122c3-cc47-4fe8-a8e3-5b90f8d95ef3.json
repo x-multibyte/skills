@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "738122c3-cc47-4fe8-a8e3-5b90f8d95ef3",
+  "path": "agent-platform-migrate-from-ai-studio",
+  "path_key": "agent-platform-migrate-from-ai-studio",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

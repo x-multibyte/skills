@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9f0ee128-29b9-4f75-b67e-a353dd719795",
+  "path": "android-adb",
+  "path_key": "android-adb",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

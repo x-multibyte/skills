@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "4b120e32-1161-45ed-b55f-a09e104f9c61",
+  "path": "agent-browser",
+  "path_key": "agent-browser",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "163cb336-aefc-4dd7-9691-d272bca77c01",
+  "path": "lm-studio",
+  "path_key": "lm-studio",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
