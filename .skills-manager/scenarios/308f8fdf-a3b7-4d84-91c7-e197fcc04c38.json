@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "scenario_id": "308f8fdf-a3b7-4d84-91c7-e197fcc04c38",
+  "name": "Laravel Project",
+  "description": "Skills related to Laravel project development.",
+  "icon": "code-2",
+  "sort_order": 999
+}
