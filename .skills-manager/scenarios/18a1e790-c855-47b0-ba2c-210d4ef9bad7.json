@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "scenario_id": "18a1e790-c855-47b0-ba2c-210d4ef9bad7",
+  "name": "Operations",
+  "description": "Operations and Maintenance",
+  "icon": "server",
+  "sort_order": 999
+}
