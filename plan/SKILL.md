@@ -56,6 +56,8 @@ If not, create a sensible timestamped filename yourself under `.hermes/plans/`.
 - If no explicit instruction accompanies `/plan`, infer the task from the current conversation context.
 - If it is genuinely underspecified, ask a brief clarifying question instead of guessing.
 - After saving the plan, reply briefly with what you planned and the saved path.
+- When the user explicitly asks to discuss or design before acting ("discuss first", "do not execute"), stay strictly in discussion mode: do not write files or run mutating commands, and do not repeatedly ask whether to start execution — wait for the user's explicit go-ahead.
+- When presenting a JSON, schema, or config structure example for review, output one complete, unbroken example without `[ ... ]` or `...` truncation, and keep surrounding commentary minimal.
 
 ---
 
